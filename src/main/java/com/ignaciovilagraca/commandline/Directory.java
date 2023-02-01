@@ -1,4 +1,4 @@
-package main;
+package com.ignaciovilagraca.commandline;
 
 import java.util.ArrayList;
 import java.util.List;

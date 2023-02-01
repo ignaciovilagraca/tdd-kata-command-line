@@ -1,5 +1,6 @@
+package com.ignaciovilagraca.commandline;
+
 import java.util.List;
-import main.CommandLine;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
